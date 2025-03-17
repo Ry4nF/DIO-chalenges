@@ -1,0 +1,9 @@
+aspect LogAspect {
+    pointcut verificacaoSaldo(Conta *conta, double valor) = call(bool sacar(Conta*, double)) && args(conta, valor);
+    
+    advice verificacaoSaldo() before (Conta *conta, double valor) {
+        if (conta->saldo < valor) {
+            printf("[ERRO] Saldo insuficiente na conta %s.\n", conta->tipo);
+        }
+    }
+};
