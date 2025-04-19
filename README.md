@@ -1,5 +1,5 @@
-Os códigos colocados nesse repositório fazem parte dos cursos da plataforma DIO
+Este repositório tem como objetivo armazenar os códigos, desafios e atividades desenvolvidos através da plataforma DIO.
 
-1. aspect - Código de uma interface simples de um banco utilizando a programação orientada a aspectos na linguagem C;
-2. jogo da velha - É um jogo da velha implementado na linguagem C;
-3. calculadora - É uma calculadora simples em C, que realiza as operações básicas;
+A DIO oferece uma ampla variedade de cursos com conteúdos diversos. Por isso, a organização deste repositório será feita por pastas nomeadas conforme os títulos dos cursos na plataforma.
+
+Todo o conteúdo aqui presente faz (e continua fazendo) parte da minha jornada de aprendizado na área da Computação. Este espaço serve como registro da minha evolução e como fonte de consulta para revisões futuras.
